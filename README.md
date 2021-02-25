@@ -7,7 +7,7 @@ Discord-antispam is the best package for antispam protection.
 
 
 ```j
-npm i discord-antispam
+npm i discord-pro-antispam
 ```
 
 ## Usage
